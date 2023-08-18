@@ -134,6 +134,8 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [Evaluating the Adversarial Robustness of Adaptive Test-time Defenses](https://proceedings.mlr.press/v162/croce22a/croce22a.pdf) ICML'22
 * [MECTA: Memory-Economic Continual Test-Time Model Adaptation](https://openreview.net/forum?id=N92hjSf5NNh) ICLR'23
 * [Neuro-Modulated Hebbian Learning for Fully Test-Time Adaptation](https://arxiv.org/abs/2303.00914) CVPR'23
+* [Uncovering Adversarial Risks of Test-Time Adaptation](https://arxiv.org/abs/2301.12576) ICML'23
+* [Leveraging Proxy of Training Data for Test-Time Adaptation](https://openreview.net/forum?id=VVGNInOAm9) ICML'23 [[project]](https://cvlab.postech.ac.kr/research/TTAwithProxy/)
 
 ### Benchmark
 * [On Pitfalls of Test-Time Adaptation](https://arxiv.org/pdf/2306.03536.pdf) ICML'2023 [[Code]](https://github.com/LINs-lab/ttab)
@@ -164,6 +166,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 * [TTA-COPE: Test-Time Adaptation for Category-Level Object Pose Estimation](https://arxiv.org/abs/2303.16730) CVPR'23 [[Project]](https://sites.google.com/view/taeyeop-lee/ttacope)
 * [SfM-TTR: Using Structure from Motion for Test-Time Refinement of Single-View Depth Networks](https://arxiv.org/abs/2211.13551) CVPR'23 [[Code]](https://github.com/serizba/SfM-TTR)
 * [Video Test-Time Adaptation for Action Recognition](https://arxiv.org/abs/2211.15393) CVPR'23 [[Project]](https://wlin-at.github.io/vitta)
+* [Test-time Adaptation with Slot-Centric Models](https://arxiv.org/abs/2203.11194) ICML'23 [[project]](https://slot-tta.github.io/)
 
 
 <!-- ### Datasets -->
